@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# Estando no Servidor de Controle do Cluster com SLURM configurado (No LabP2D: Logar na baia0 da Babitonga):
+# bash slurm-script.bash
+
 # SUBSTITUIR O QUE ESTIVER ENTRE < >
 
 # Configuração de logging
